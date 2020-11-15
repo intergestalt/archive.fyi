@@ -1,0 +1,31 @@
+{
+  "name": "archive.fyi",
+  "version": "1.0.0",
+  "description": "archive.fyi web archive",
+  "main": "index.js",
+  "dependencies": {
+    "domrobot-client": "^3.0.2",
+    "remarkable": "^2.0.1",
+    "remarkable-meta": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intergestalt/archive.fyi.git"
+  },
+  "keywords": [
+    "archive",
+    "web",
+    "art"
+  ],
+  "author": "Holger Heißmeyer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/intergestalt/archive.fyi/issues"
+  },
+  "homepage": "https://github.com/intergestalt/archive.fyi#readme"
+}
